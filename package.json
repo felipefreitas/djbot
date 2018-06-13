@@ -24,7 +24,11 @@
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
     "log4js": "^1.1.1",
-    "ibm-cloud-env": "^0"
+    "ibm-cloud-env": "^0",
+    "request": "2.72.0",
+    "htmlparser": "1.7.7",
+    "watson-developer-cloud": "^2.37.0",
+    "vcap_services": "^0.2.0"
   },
   "devDependencies": {
     "chai": "^4.0.0",
